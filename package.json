@@ -1,0 +1,15 @@
+{
+  "name": "blossom",
+  "version": "1.0.0",
+  "description": "blossom",
+  "main": "prueba",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "author": "Luisa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
